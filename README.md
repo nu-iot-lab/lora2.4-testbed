@@ -6,9 +6,9 @@ The testbed uses LILYGO TTGO v1.2 and Heltec LoRa v2 boards.
 
 ## Setup
 
-1. Configure the router's DHCP to assign static IPs to both the gateway and the end devices. \
-2. Use assets.txt to provide specific settings for each device. \
-3. Initiate experiments using the script on a PC with the devices listed in assets.txt. \
+1. Configure the router's DHCP to assign static IPs to both the gateway and the end devices. 
+2. Use assets.txt to provide specific settings for each device. 
+3. Initiate experiments using the script on a PC with the devices listed in assets.txt. 
 
 
 
