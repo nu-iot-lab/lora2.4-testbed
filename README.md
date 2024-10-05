@@ -1,6 +1,6 @@
 # Lora2.4-testbed
 
-Custom gateway with 4 channels, each assigned to one transceiver: 3 for receiving (Rx) and 1 for transmitting (Tx). \
+One gateway with 4 channels, each assigned to one transceiver: 3 for receiving (Rx) and 1 for transmitting (Tx). \
 The testbed uses LILYGO TTGO v1.2 and Heltec LoRa v2 boards.
 
 
