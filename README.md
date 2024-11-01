@@ -11,9 +11,15 @@ The testbed uses LILYGO TTGO v1.2 and Heltec LoRa v2 boards.
 3. Initiate experiments using the script on a PC with the devices listed in assets.txt. 
 
 
-
 ## Usage
 
 - To start a new experiment, use the following command:
   ```bash
   python3 init_exp_f.py <experiment_folder>
+
+## License
+This project is licensed under the GNU General Public License - see the LICENSE.md file for details.
+
+## Credits
+
+The lora2.4-testbed project is developed and maintained by the NU IoT Lab.
